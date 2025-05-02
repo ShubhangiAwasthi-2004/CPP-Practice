@@ -12,9 +12,9 @@ int main() {
     cin >> num;
 
     if (isPowerOfTwo(num)) {
-        cout << num << " is a power of two." << endl;
+        cout << num << " Is a power of two." << endl;
     } else {
-        cout << num << " is NOT a power of two." << endl;
+        cout << num << " Is NOT a power of two." << endl;
     }
 
     return 0;
