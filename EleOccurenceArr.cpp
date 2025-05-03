@@ -13,7 +13,7 @@ void countDistinct(int arr[], int n)
         int count = 1;
 
         // Move the index ahead whenever
-        // you encounter duplicates
+        // you encounter duplicates.
         while (i < n - 1 && arr[i] == arr[i + 1]){
             i++;
             count++;
