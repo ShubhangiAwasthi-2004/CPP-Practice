@@ -7,7 +7,7 @@ class Solution {
         unordered_map<char, int> lastIndex;
         int n = s.size();
         
-        // Store the last occurrence of each character
+        // Store last occurrence of each character
         for (int i = 0; i < n; i++) {
             lastIndex[s[i]] = i;
         }
