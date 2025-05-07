@@ -1,6 +1,8 @@
-//Given a connected undirected graph represented by adjacency list, adjList[][] with n nodes, having a distinct label from 0 to n-1, where each adj[i] represents the list of vertices connected to vertex i.
+//Given a connected undirected graph represented by adjacency list, adjList[][] with n nodes, having a distinct label from 0 to n-1,
+//where each adj[i] represents the list of vertices connected to vertex i.
 
-//Create a clone of the graph, where each node in the graph contains an integer val and an array (neighbors) of nodes, containing nodes that are adjacent to the current node
+//Create a clone of the graph, where each node in the graph contains an integer val and
+//an array (neighbors) of nodes, containing nodes that are adjacent to the current node
 
 class Solution {
   public:
