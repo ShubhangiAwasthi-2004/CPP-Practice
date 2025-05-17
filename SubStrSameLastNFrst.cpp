@@ -2,10 +2,11 @@
 // count of all substrings that start and end with the same character.
 
 // Examples:
-
+// 1 -
 // Input: s = "abcab"
 // Output: 7
 // Explanation: There are 7 substrings where the first and last characters are the same: "a", "abca", "b", "bcab", "c", "a", and "b"
+// 2 - 
 // Input: s = "aba"
 // Output: 4
 // Explanation: There are 4 substrings where the first and last characters are the same: "a", "aba", "b", "a"
