@@ -1,5 +1,6 @@
 /*A new alien language uses the English alphabet, but the order of letters is unknown. 
-You are given a list of words[] from the alien language’s dictionary, where the words are claimed to be sorted lexicographically according to the language’s rules.
+You are given a list of words[] from the alien language’s dictionary, where the words are 
+claimed to be sorted lexicographically according to the language’s rules.
 
 Your task is to determine the correct order of letters in this alien language based on the given words. 
 If the order is valid, return a string containing the unique letters in lexicographically increasing order as per the new language's rules.
