@@ -19,3 +19,48 @@
 // Constraints:
 // 1 <= number of nodes <= 106
 // 0 <= node->data <= 104
+
+/*
+class Node {
+  public:
+    int data;
+    Node *left;
+    Node *right;
+
+    Node(int x) {
+        data = x;
+        left = NULL;
+        right = NULL;
+    }
+}; */
+
+class Solution {
+  public:
+     void dfs(Node* node, int currSum, int currLen, int &maxSum, int &maxLen) {
+        if (node == nullptr) return;
+
+        currSum += node->data;
+        currLen++;
+
+        // If it's a leaf node
+        if (node->left == nullptr && node->right == nullptr) {
+            if (currLen > maxLen) {
+                maxLen = currLen;
+                maxSum = currSum;
+            } else if (currLen == maxLen) {
+                maxSum = max(maxSum, currSum);
+            }
+            return;
+        }
+
+        dfs(node->left, currSum, currLen, maxSum, maxLen);
+        dfs(node->right, currSum, currLen, maxSum, maxLen);
+    }
+
+    int sumOfLongRootToLeafPath(Node *root) {
+        int maxSum = 0;
+        int maxLen = 0;
+        dfs(root, 0, 0, maxSum, maxLen);
+        return maxSum;
+    }
+};
