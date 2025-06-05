@@ -30,22 +30,24 @@ This repository is a work in progress — **more C++ programs will be added over
 
 ## Compile and run any .cpp file:
 
-bash
-Copy
-Edit
-g++ file_name.cpp -o output
-./output
+#bash
+#Copy
+#Edit
+#g++ file_name.cpp -o output
+#./output
+
 Or just open the file in Dev C++, press F11 to compile and run.
 
-📚 Resources I Used
-📺 CodeWithHarry – C++ Playlist
-📘 GeeksforGeeks – C++ Programming
-📘 Programiz – Learn C++
-📘 cplusplus.com – Full C++ Reference
+### 📚 Resources I Used
 
-🙌 Contributions - 
+📺 CodeWithHarry – C++ Playlist,
+📘 GeeksforGeeks – C++ Programming,
+📘 Programiz – Learn C++,
+📘 cplusplus.com – Full C++ Reference.
+
+### 🙌 Contributions - 
 
 Have a C++ program you'd like to share or improve?
 Fork the repo, create a new branch, and open a pull request — contributions are always welcome!
 
-Thanks for visiting! Made with 💙 by ShubhangiAwasthi-2004
+Thanks for visiting! Made with 💙 by Shubhangi Awasthi
