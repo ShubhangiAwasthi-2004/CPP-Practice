@@ -28,7 +28,7 @@ This repository is a work in progress — **more C++ programs will be added over
    git clone https://github.com/ShubhangiAwasthi-2004/CPP-Practice.git
    cd CPP-Practice
 
-Compile and run any .cpp file:
+## Compile and run any .cpp file:
 
 bash
 Copy
@@ -39,19 +39,13 @@ Or just open the file in Dev C++, press F11 to compile and run.
 
 📚 Resources I Used
 📺 CodeWithHarry – C++ Playlist
-
 📘 GeeksforGeeks – C++ Programming
-
 📘 Programiz – Learn C++
-
 📘 cplusplus.com – Full C++ Reference
 
-🙌 Contributions
+🙌 Contributions - 
+
 Have a C++ program you'd like to share or improve?
 Fork the repo, create a new branch, and open a pull request — contributions are always welcome!
-
-📝 License
-This project is open-source and licensed under the MIT License.
-Feel free to use the code with attribution.
 
 Thanks for visiting! Made with 💙 by ShubhangiAwasthi-2004
