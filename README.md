@@ -2,7 +2,7 @@
 
 Welcome to the **CPP-Practice** repository by [@ShubhangiAwasthi-2004](https://github.com/ShubhangiAwasthi-2004)!
 
-This repository contains a collection of C++ programs created during my practice sessions. These programs range from basic syntax to object-oriented concepts, written primarily using the **Dev C++** IDE.
+This repository contains a collection of C++ programs created during my practice sessions. These programs range from basic syntax to object-oriented concepts, written primarily using the **Dev C++** IDE and currently uploading the solution to the **POTDs of GFG 160** challenge.
 
 ---
 
