@@ -10,6 +10,7 @@
 // For a[1] = 8 and a[2] = 7, there are 6 elements in b that are ≤ 8 and ≤ 7.
 // For a[3] = 5, there are 6 elements in b that are ≤ 5.
 // For a[4] = 1, there are 3 elements in b (0, 1, 1) that are ≤ 1.
+
 // Input: a[] = [10, 20], b[] = [30, 40, 50]
 // Output: [0, 0]
 // Explanation: 
