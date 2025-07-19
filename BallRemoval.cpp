@@ -11,6 +11,6 @@ class Solution {
             }
         }
 
-        return st.size(); // remaining balls
+        return st.size(); // remaining balls...
     }
 };
