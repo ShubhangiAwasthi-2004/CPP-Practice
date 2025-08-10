@@ -2,7 +2,7 @@
 
 // v is the value to be added
 // (r1, c1) is the top-left cell of a submatrix
-// (r2, c2) is the bottom-right cell of the submatrix (inclusive)
+// (r2, c2) is the bottom-right cell of the submatrix (inclusive) 
 // For each of the q operations, add v to every element in the submatrix from (r1, c1) to (r2, c2). Return the final matrix after applying all operations.
 
 // Examples:
